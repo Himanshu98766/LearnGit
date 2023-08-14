@@ -1,1 +1,3 @@
 I create the phone.txt in LearnGit folder
+
+I need touchscreen phone and gorilla glass
